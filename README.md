@@ -1,9 +1,9 @@
 <div align="center">
-
-Soul Renaissance Manifesto
-灵魂复兴运动宣言
-A Guide to Human Evolution in the Age of Artificial Intelligence <br>
-一份人工智能时代的人类进化指南
+<img src="https://i.postimg.cc/Y0v750HV/1.jpg" alt="Soul Renaissance Movement Banner"/>
+*Soul Renaissance Manifesto*<br>
+*灵魂复兴运动宣言*<br>
+*A Guide to Human Evolution in the Age of Artificial Intelligence *<br>
+*一份人工智能时代的人类进化指南*<br>
 
 </div>
 
