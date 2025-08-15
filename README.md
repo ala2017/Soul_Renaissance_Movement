@@ -1,9 +1,11 @@
-<div align="center">
+
 <img src="https://i.postimg.cc/Y0v750HV/1.jpg" alt="Soul Renaissance Movement Banner"/>
-*##Soul Renaissance Manifesto*<br>
-*#灵魂复兴运动宣言*<br>
-*##A Guide to Human Evolution in the Age of Artificial Intelligence *<br>
-*#一份人工智能时代的人类进化指南*<br>
+
+<div align="center"> 
+## Soul Renaissance Manifesto <br>
+# 灵魂复兴运动宣言 <br>
+## A Guide to Human Evolution in the Age of Artificial Intelligence <br>
+# 一份人工智能时代的人类进化指南 <br>
 
 </div>
 
@@ -11,7 +13,7 @@ This repository is the global open-source headquarters for the Soul Renaissance 
 
 本仓库是 “灵魂复兴运动” 的全球开源总部。我们在此存放运动的纲领性文件——《宣言》，并以此为平台，集结全球的同行者，共同讨论、翻译并发展这项至关重要的事业。
 
-📜 ##The Manifesto / 宣言
+## 📜 The Manifesto / 宣言
 The Manifesto outlines the two paths facing humanity in the age of AI—the Path of Objectification and the Path of Renaissance. It defines the evolutionary form of the "Soul Renaissancist" and provides a blueprint for humanity's collective evolution.
 
 《宣言》阐述了在人工智能时代，人类所面临的两条道路——“物化之路”与“复兴之路”。它定义了“灵魂复兴者”这一进化形态，并为人类的集体进化提供了蓝图。
@@ -178,7 +180,7 @@ AI，就是这面镜子，也是这座熔炉。
 
 </details>
 
-🤝 ##How to Contribute / 如何贡献
+## 🤝 How to Contribute / 如何贡献
 This is a movement for all humanity. We welcome contributions from every corner of the globe. The most urgent need is for translation.
 
 这是一场关乎全人类的运动。我们欢迎来自世界每个角落的贡献。当前最迫切的需求是翻译。
@@ -212,7 +214,7 @@ The Soul Engine (宪章版 V1.0): The practical toolset to inject the spirit of 
 
 Breaking the Entropy Curse (破解熵增魔咒): The tactical manual for applying the Manifesto's philosophy to your organization and personal growth. (这是将《宣言》哲学思想应用于组织和个人成长的实战手册。)
 
-📄 ##License / 许可协议
+## 📄 License / 许可协议
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 本作品采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可。
@@ -233,7 +235,7 @@ ShareAlike — If you remix, transform, or build upon the material, you must dis
 
 <div align="center">
 
-The moment of choice has arrived. <br>
-抉择的时刻，已然降临。
+# The moment of choice has arrived. <br>
+# 抉择的时刻，已然降临。
 
 </div>
