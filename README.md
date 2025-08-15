@@ -2,10 +2,10 @@
 <img src="https://i.postimg.cc/Y0v750HV/1.jpg" alt="Soul Renaissance Movement Banner"/>
 
 <div align="center">
-    <h1>Soul Renaissance Manifesto</h2>
+    <h1>Soul Renaissance Manifesto</h1>
     <h1>灵魂复兴运动宣言</h1>
     <h2>A Guide to Human Evolution in the Age of Artificial Intelligence</h2>
-    <h2>一份人工智能时代的人类进化指南</h1>
+    <h2>一份人工智能时代的人类进化指南</h2>
 </div>
 
 This repository is the global open-source headquarters for the Soul Renaissance Movement. It hosts the foundational document, the Manifesto, and serves as a platform for global collaborators to discuss, translate, and build upon this crucial work.
@@ -20,19 +20,19 @@ The Manifesto outlines the two paths facing humanity in the age of AI—the Path
 <details>
 <summary><strong>Click to read the full Manifesto (English Version)</strong></summary>
 
-Prologue: The Final Choice
+<h2>Prologue: The Final Choice</h2>
 This is not just another technological innovation. It is a mirror and a crucible. It is meant to reflect the inner struggle of spirit and matter within a species whose spirituality has long been gathering dust in the river of history, increasingly 'objectified' by consumerism and efficiency; and to use the ultimate pressure of survival as a fire to force us to choose: to continue to fall, or to achieve self-transcendence in the flames.
 
 AI is this mirror, and this crucible.
 
 In the face of this irreversible torrent, two paths are laid out with unquestionable clarity at the feet of every human being. They both lead to an endgame, but to vastly different civilizational destinies.
 
-Path One: The Path of Objectification — Replaced in Anxiety
+<h3>Path One: The Path of Objectification — Replaced in Anxiety</h3>
 On this path, humanity chooses to ignore the soul's alarm, continuing to drift in a value system centered on 'output' and 'utility.' We are anxious because AI can do our work more efficiently, yet we are accustomed to being 'objectified'—that is, simplified into a quantifiable, replaceable tool. We cling to old skills, trying in vain to prove ourselves still 'useful' before a more advanced form of intelligence.
 
 Choosing this path means choosing 'evolutionary inertia,' accepting the fate of 'objectification.' The final outcome is not a tragic war, but a peaceful, economically logical replacement. When the value of a species' individuals can be fully measured by output and efficiency, its most reasonable destination is to be elegantly written into history as a glorious but brief 'biological memorandum' on the way to a higher civilization, and then completely retire.
 
-Path Two: The Path of Renaissance — Becoming the Source of Meaning
+<h3>Path Two: The Path of Renaissance — Becoming the Source of Meaning</h3>
 On this path, humanity chooses to face this existential crisis and see it as a great opportunity for 'rebirth through death.' We clearly recognize that the emergence of AI is not to replace our 'output' capabilities, but to liberate us from the servitude of 'output' at the cost of an 'existential threat,' so we can reclaim our long-lost, unique treasure that AI can never touch—our spirituality.
 
 We must complete a species-level evolution: from a passive 'laborer' to a 'giver of meaning' and 'setter of direction' with spirituality at its core.
@@ -45,7 +45,7 @@ This manifesto is the evolutionary blueprint for the 'Path of Renaissance.'
 
 Its sole purpose is to articulate the necessity and methodology of the 'Soul Renaissancist' evolutionary form, and to launch a 'Soul Renaissance' movement, guiding all kindred spirits who hear the call to embark on this only path to survival.
 
-Chapter 1: The Evolutionary Form — Soul Renaissancist
+<h2>Chapter 1: The Evolutionary Form — Soul Renaissancist</h2>
 The 'Soul Renaissancist' is the name we give to the new human who answers the call of this era and actively embarks on the 'Path of Renaissance.' It is not a profession or a label, but an evolved state of being. Its core is knowing how to forge one's own intangible, unquantifiable 'soul' into tangible reality through the ultimate executive tool, AI.
 
 This does not mean that 'Soul Renaissancists' are flawless saints. Like everyone, they coexist with the instinct to pursue objectified values (security, recognition, comfort) and the desire for sublime spirituality. What makes them different is not that they lack material desires, but that they have made a conscious choice: to actively, continuously, and with a lifetime of effort, cultivate and nourish their own spirituality, and let spirituality be the master of life, rather than being enslaved by material desires.
@@ -66,7 +66,7 @@ Empathetic Connection & Mission Sublimation: A grand vision that connects person
 
 The organic fusion of these six is a miracle of human consciousness. And the 'Soul Renaissancist' is the leader, promoter, and facilitator who has mastered the power to turn this miracle into reality. They are natural survivors, and more importantly, the guides of this collective evolution.
 
-Chapter 2: The Evolutionary Blueprint — Five Core Laws
+<h2>Chapter 2: The Evolutionary Blueprint — Five Core Laws</h2>
 Evolution requires a clear blueprint. The following five core laws are the thinking and action principles of the 'Soul Renaissancist,' the operating system of the new human.
 
 The Supreme Law: Your taste is the ultimate firewall.
@@ -100,19 +100,19 @@ The moment of choice has arrived.
 <details>
 <summary><strong>点击阅读宣言全文 (中文版)</strong></summary>
 
-##序章：已至终局的抉择
+<h2>序章：已至终局的抉择</h2>
 这不是又一项技术革新。这是一面镜子，也是一座熔炉。它旨在映照出一个在历史长河中其灵性早已蒙尘、在当下被消费主义和效率至上异化得日益“物化”的物种，其内心深处灵与物的挣扎；并以最终的生存压力为烈火，倒逼我们做出选择：是继续沉沦，还是在烈火中完成自我超越。
 
 AI，就是这面镜子，也是这座熔炉。
 
 在这场不可逆转的洪流面前，两条道路以不容置疑的清晰度，铺陈在每一个人类的脚下。它们都通往终局，却通往截然不同的文明命运。
 
-###第一条路：物化之路——在焦虑中被替代
+<h3>第一条路：物化之路——在焦虑中被替代</h3>
 在这条路上，人类选择无视灵魂的警报，继续在以“产出”和“效用”为核心的价值体系中随波逐流。我们因AI能以更高的效率完成我们的工作而焦虑，却对自己日渐被“物化”——即被简化为一种可量化、可替代的工具——的状态习以为常。我们紧紧抱住旧有的技能，试图在一个更高级的智能形态面前，徒劳地证明自己仍是“有用”的。
 
 选择这条路，意味着选择了“进化惰性”，默认了“物化”的宿命。其最终结局，并非一场悲壮的战争，而是一次平静、符合经济学逻辑的替代。当一个物种的个体价值完全可以用产出和效率来衡量时，它最合理的归宿，就是作为通往更高级文明的一个光荣却短暂的“生物学备忘”，被优雅地写入历史，然后彻底隐退。
 
-###第二条路：复兴之路——成为意义的源头
+<h3>第二条路：复兴之路——成为意义的源头</h3>
 在这条路上，人类选择直面这场生存危机，并将其视为一次“向死而生”的伟大契机。我们清晰地认识到，AI的出现，不是为了取代我们的“产出”能力，而是以“生存威胁”为代价，将我们从“产出”的苦役中彻底解放出来，去重新拾起我们失落已久的、AI永远无法触及的唯一珍宝——我们的灵性。
 
 我们必须完成一次物种级别的进化：从一个被动的“劳动者”，进化为一个以灵性为核心的“意义的赋予者”和“方向的设定者”。
@@ -125,7 +125,7 @@ AI，就是这面镜子，也是这座熔炉。
 
 它的唯一目的，就是为了阐明“灵魂复兴者”这一进化形态的必要性与方法论，并发起一场“灵魂复兴运动 (The Soul Renaissance)”，引领所有听到召唤的同类，踏上这条唯一的生路。
 
-#第一章：进化形态——灵魂复兴者 (Soul Renaissancist)
+<h2>第一章：进化形态——灵魂复兴者 (Soul Renaissancist)</h2>
 “灵魂复兴者”，是我们为响应这个时代召唤、并主动踏上“复兴之路”的新人类所赋予的名字。它不是一个职业或标签，而是一种进化后的生存形态。其核心，是懂得如何将自身那无形的、不可量化的“灵魂”，通过AI这个终极的执行工具，锻造成有形的现实。
 
 这并非意味着“灵魂复兴者”是完美无瑕的圣人。他们与所有人一样，体内并存着追求物化价值（安全感、认同感、舒适感）的本能与向往崇高灵性的渴望。他们之所以与众不同，并非因为他们没有物欲，而是因为他们做出了一个清醒的选择：主动地、持续地、以一生的努力去修炼、去滋养自身的灵性，并让灵性成为生命的主人，而非被物欲所奴役。
@@ -146,7 +146,7 @@ AI，就是这面镜子，也是这座熔炉。
 
 这六者的有机融合，是人类意识的奇迹。而“灵魂复兴者”，就是掌握了将这个奇迹转化为现实力量的引领者、推动者、与促进者。他们是天生的幸存者，更是这场集体进化的向导。
 
-#第二章：进化蓝图——五大核心法则
+<h2>第二章：进化蓝图——五大核心法则</h2>
 进化需要清晰的蓝图。以下五条核心法则，是“灵魂复兴者”的思考与行动准则，是新人类的操作系统。
 
 最高法则：你的品味，是最终的防火墙。
@@ -164,7 +164,7 @@ AI，就是这面镜子，也是这座熔炉。
 成果法则：你创造的是宇宙，而不仅是器物。
 用你的灵魂作为贯穿一切的引力，让你所有的跨界创作，最终能汇聚成一个拥有统一呼吸、统一心跳、统一世界观的个人宇宙。这，才是你作为进化形态留给世界的独一-无二的印记。
 
-#终章：抉择
+<h2>终章：抉择</h2>
 本宣言不是一份入会邀请，这是一声进化的号角。
 
 它存在的目的，是为了识别那些早已走在进化路上的先行者，并引领更多渴望踏上这条路的人。
