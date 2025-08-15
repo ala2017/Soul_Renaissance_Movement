@@ -1,12 +1,11 @@
 
 <img src="https://i.postimg.cc/Y0v750HV/1.jpg" alt="Soul Renaissance Movement Banner"/>
 
-<div align="center"> 
-## Soul Renaissance Manifesto <br>
-# 灵魂复兴运动宣言 <br>
-## A Guide to Human Evolution in the Age of Artificial Intelligence <br>
-# 一份人工智能时代的人类进化指南 <br>
-
+<div align="center">
+    <h1>Soul Renaissance Manifesto</h2>
+    <h1>灵魂复兴运动宣言</h1>
+    <h2>A Guide to Human Evolution in the Age of Artificial Intelligence</h2>
+    <h2>一份人工智能时代的人类进化指南</h1>
 </div>
 
 This repository is the global open-source headquarters for the Soul Renaissance Movement. It hosts the foundational document, the Manifesto, and serves as a platform for global collaborators to discuss, translate, and build upon this crucial work.
